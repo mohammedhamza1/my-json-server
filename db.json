@@ -2,7 +2,13 @@
   "students": [
     {
       "id": 1,
-      "name": "mohammed"
+      "name": "mohammed",
+      "age": 16
+    },
+    {
+      "id": 2,
+      "name": "ahmed",
+      "age": 15
     }
   ],
   "class": {
