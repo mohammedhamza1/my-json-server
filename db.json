@@ -9,9 +9,19 @@
       "id": 2,
       "name": "ahmed",
       "age": 15
+    },
+    {
+      "id": 4,
+      "name": "salah",
+      "age": 15
+    },
+    {
+      "id": 5,
+      "name": "ali",
+      "age": 15
     }
   ],
   "class": {
-    "name": "typicode"
+    "name": "c-2"
   }
 }
